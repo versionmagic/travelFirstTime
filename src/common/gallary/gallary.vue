@@ -27,7 +27,9 @@ export default {
                 pagination: '.swiper-pagination',
                 paginationType: 'fraction',
                 observeParents: true,
-                observer: true
+                observer: true,
+                loop: true,
+				        loopedSlides: 2
             }
         }
     },
